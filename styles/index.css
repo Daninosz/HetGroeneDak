@@ -46,7 +46,10 @@ body {
 }
 
 h1 {
-    padding: 0.8em 0  0.8em 0;
+    padding: 0.3em 0  0.3em 0;
+    color: #93AF1C;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
 }
 
 h2 {
@@ -63,6 +66,9 @@ main {
     margin: 0;
     background-color: #FFEDD3;
     padding-bottom: 100px;
+}
+.homemain{
+padding-bottom: 40px;
 }
 
 main p {
